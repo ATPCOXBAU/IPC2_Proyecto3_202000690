@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<lista_respuestas>
+  <respuesta>
+    <respuesta>01/04/2022</respuesta>
+    <mensajes>
+      <total>3</total>
+      <positivos>2</positivos>
+      <negativos>1</negativos>
+      <neutros>0</neutros>
+    </mensajes>
+  </respuesta>
+  <respuesta>
+    <respuesta>26/05/2022</respuesta>
+    <mensajes>
+      <total>6</total>
+      <positivos>2</positivos>
+      <negativos>2</negativos>
+      <neutros>2</neutros>
+    </mensajes>
+  </respuesta>
+</lista_respuestas>
